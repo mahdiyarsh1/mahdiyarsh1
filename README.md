@@ -1,4 +1,4 @@
-# Hi, I'm Mehdiar Shamsi! 👋
+# Hi, I'm Mahdiyar Shamsi! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+PostgreSQL+Developer;Open+Source+Enthusiast;Lifelong+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
 
@@ -12,9 +12,8 @@ I'm a passionate developer who loves working on **Python**, **Django**, and **Po
 
 ## Connect with Me
 
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📊 [Kaggle Profile](https://www.kaggle.com/your-kaggle-profile)
-- 📫 Email: mahdiyarshamsi64@gmail.com
+- 🌐 (https://www.linkedin.com/in/mahdiar-shamsi-469359309/)
+- 📫 Email: (mahdiyarshamsi64@gmail.com)
 
 ## GitHub Stats
 
