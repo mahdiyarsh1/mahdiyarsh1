@@ -15,10 +15,3 @@ I'm a passionate developer who loves working on **Python**, **Django**, and **Po
 - 🌐 (https://www.linkedin.com/in/mahdiar-shamsi-469359309/)
 - 📫 Email: (mahdiyarshamsi64@gmail.com)
 
-## GitHub Stats
-
-![Mehdiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-## Projects
-
-- 🔧 [Practice Django](https://github.com/your-github-username/practice_django) - A Django project repository where I'm refining my skills.
