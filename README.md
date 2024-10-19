@@ -10,11 +10,16 @@
 - Programming
 
 ### 🌱 Skills & Learning
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Django](https://img.shields.io/badge/Django-3.2-brightgreen)
+
 - Completed courses in Python programming and several technical courses at prominent schools in the country
 - Currently enrolled in a specialized course on the Django framework
 - Learning about databases and Git
 
 ### 💼 Goals
 - Seeking opportunities for training and work in software engineering and programming
+
+![My Projects](لینک به GIF)
 
 Feel free to connect with me!
