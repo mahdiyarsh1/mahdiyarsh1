@@ -20,6 +20,6 @@
 ### 💼 Goals
 - Seeking opportunities for training and work in software engineering and programming
 
-![My Projects](لینک به GIF)
+
 
 Feel free to connect with me!
